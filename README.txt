@@ -1,5 +1,8 @@
 Simple guestbook developed with CodeIgniter.
 
+1. Update the settings in application/config/ to suit your environment. E.g. database.php.
+2. Create the needed database and table using create_table_post.sql.
+
 Files I have added to the framework:
 
 create_table_post.sql
